@@ -3,7 +3,7 @@
 > A calm, senior-friendly web app that helps people with long-term conditions take the right
 > medicine at the right time, built with **Python + Streamlit**.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app ← *replace after deploying*
+**Live app:** (https://id1000672kavishpratikshahsa-1-python-ashuwpzsrfwsfek6dradqy.streamlit.app/) ← 
 
 | | |
 |---|---|
