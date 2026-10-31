@@ -9,7 +9,7 @@
 |---|---|
 | **Course** | Python Programming, Summative Assessment (CRS: Artificial Intelligence) |
 | **Scenario** | Scenario 2: Design MedTimer Daily Medicine Companion using Python |
-| **Student** | *Your full name*, *Candidate registration number* |
+| **Student** | Kavish Pratik Shah , 1000672 |
 
 ![MedTimer today screen](screenshots/2-today.jpg)
 
@@ -225,18 +225,10 @@ streamlit run app.py
 
 Run the tests: `pip install pytest && python -m pytest -q`
 
-## 8. Deployment instructions (Streamlit Community Cloud)
-
-1. Push this folder to a GitHub repository named like `IDAI102-<StudentID>-<StudentName>`.
-2. Go to **https://share.streamlit.io** and sign in with GitHub.
-3. Click **Create app → Deploy a public app from GitHub**.
-4. Choose the repository, branch `main`, main file `app.py`, and pick an app URL.
-5. Click **Deploy**. Streamlit installs `requirements.txt` and the app goes live in a minute or two.
-6. Paste the live link at the top of this README and commit.
 
 ---
 
-## 9. Testing (Stage 4)
+## 8. Testing (Stage 4)
 
 ### Automated tests
 **26 tests** in [`test_app.py`](test_app.py) cover statuses at different times of day, the early-tick rule,
@@ -294,7 +286,7 @@ the common-illness library, turtle drawings, validation and the read-aloud text.
 
 ---
 
-## 10. Ethics and responsibility
+## 9. Ethics and responsibility
 
 * MedTimer is a **memory aid, not medical advice**; this is stated in the app and on the Common illnesses page,
   which also says to only add medicines a doctor or pharmacist advised. Doses there are only starting points.
